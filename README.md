@@ -2,7 +2,7 @@
 
 https://harsh-k-117.github.io/Personal-portfolio-website/
 
-## Contents
+ Contents
 
 - Personal introduction
 - Skills and technologies
